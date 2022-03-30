@@ -7,6 +7,7 @@
 - CSS File **(style.css)**
 - JavaScript File **(script.js)**
 - Image Folder **(image)** where all the images & pictures related to the website will be made available
+- README.md where you can see the preview and resources related to that particular folder
 ### Tech-Stack used :
 <p align="left"><a href="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" target="_blank" rel="noreferrer"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="html5" width="60" height="60"/> </a><a href="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" target="_blank" rel="noreferrer"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="css3" width="60" height="60"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://dev.welaika.com/images/javascript-1a855dbd.svg" alt="javascript" width="60" height="60"/> </a></p>
 
